@@ -39,7 +39,7 @@
 Empezamos aquí ...
 ------------------
 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-flash-player.svg" width="200" height="200" />
+![Adobe Flash](https://addons.cdn.mozilla.net/user-media/previews/full/144/144974.png?modified=1413224838 "Logo de Adobe Flash")
 
 ---
 

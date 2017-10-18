@@ -18,9 +18,15 @@
 
 ---
 
+#### [Slides](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
+
+---
+
 ## Presentación
 #### ¿Quién soy yo?
-#### [Slides](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
+##### Erick Agrazal
+#### ¿A qué me dedico?
+##### A muchas cosas...
 
 ---
 
@@ -29,6 +35,7 @@
 ---
 
 ## Vivímos en un mundo con el futuro de la web, y es hermoso.
+![Spotify](https://cdn-images-1.medium.com/max/800/1*7L09qgc4Xnz_vRVAKW-hhg.png)
 
 ---
 
@@ -36,7 +43,7 @@
 
 ---
 
-Empezamos aquí ...
+El inicio fue Flash ...
 ------------------
 
 ![Adobe Flash](https://addons.cdn.mozilla.net/user-media/previews/full/144/144974.png?modified=1413224838 "Logo de Adobe Flash")
@@ -95,13 +102,6 @@ Pero nos ofrecieron una solución... ¿Cierto?
 
     self.lastContentOffset = scrollView.contentOffset.y;
 }
-
-- (void)scrollViewDidScroll:(UIScrollView *)scrollView {
-    if (scrollView == self.tableView && scrollView.isDragging) {
-        if (scrollView.contentOffset.y - self.lastContentOffset < -90) {
-            [self.activeField resignFirstResponder];
-        }
-    }
 ```
 
 ---

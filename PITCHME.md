@@ -19,6 +19,8 @@
 ---
 
 ## Presentación
+#### ¿Quién soy yo?
+#### [Slides](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
 
 ---
 
@@ -34,18 +36,73 @@
 
 ---
 
-## ¿Cómo llegamos hasta aquí?
-### Flash
+Empezamos aquí ...
+------------------
+
+![Adobe Flash](https://cdn.worldvectorlogo.com/logos/adobe-flash-player.svg "Logo de Adobe Flash")
 
 ---
 
-## ¿Cómo llegamos hasta aquí?
-### La ilusión no demoró mucho
+Flash
+-----
+
+- Reproducción de audio y video
+- Comunicación en tiempo real
+- Animaciones aceleradas por _hardware_
+- Una sintaxis similar a **Javascript**
+- Un *framework* para crear interfaces gráficas multiplataformas (*Adobe Flex*) 
 
 ---
 
-## ¿Cómo llegamos hasta aquí?
-### Apple nos hizo retroceder un poco
+La ilusión no demoró mucho
+--------------------------
+
+![Steve Jobs](https://qph.ec.quoracdn.net/main-qimg-2fd2f7529b33f1ccd1f95d62ad0a66e2-c "Imagen de Steve Jobs")
+
+---
+
+Apple nos hizo retroceder un poco
+---------------------------------
+
+>Flash es una tecnología *cerrada*, perteneciente a Adobe, y si las personas continúan usando Flash, pronto Adobe también será dueño de internet. Apple no quiere eso
+
+— Un "pobre" resúmen de la carta de Steve Jobs
+
+
+---
+
+Pero nos ofrecieron una solución... ¿Cierto?
+--------------------------------------------
+
+```
+/ In @interface
+@property (nonatomic, assign) CGFloat lastContentOffset;
+
+//Scroll view delegate methods
+- (void)scrollViewDidEndDragging:(UIScrollView *)scrollView willDecelerate:(BOOL)decelerate
+{
+    if (self.tableView == scrollView) {
+        if (scrollView.contentOffset.y - self.lastContentOffset < -90) {
+            [self.activeField resignFirstResponder];
+        }
+    }
+}
+
+- (void)scrollViewWillBeginDragging:(UIScrollView *)scrollView {
+    if (scrollView != self.tableView) {
+        return;
+    }
+
+    self.lastContentOffset = scrollView.contentOffset.y;
+}
+
+- (void)scrollViewDidScroll:(UIScrollView *)scrollView {
+    if (scrollView == self.tableView && scrollView.isDragging) {
+        if (scrollView.contentOffset.y - self.lastContentOffset < -90) {
+            [self.activeField resignFirstResponder];
+        }
+    }
+```
 
 ---
 

@@ -18,15 +18,15 @@
 
 ---
 
-#### [Slides](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
-
----
-
 ## Presentación
 #### ¿Quién soy yo?
 ##### Erick Agrazal
 #### ¿A qué me dedico?
 ##### A muchas cosas...
+###### - All Safe Solutions (55%)
+###### - Smart Motion (20%)
+###### - Profesor (20%)
+###### - Entre otras cosas (5%)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Vivímos en un mundo con el futuro de la web, y es hermoso.
+## Vivímos el futuro de la web, y es hermoso.
 ![Spotify](https://cdn-images-1.medium.com/max/800/1*7L09qgc4Xnz_vRVAKW-hhg.png)
 
 ---
@@ -71,9 +71,8 @@ La ilusión no demoró mucho
 Apple nos hizo retroceder un poco
 ---------------------------------
 
->Flash es una tecnología *cerrada*, perteneciente a Adobe, y si las personas continúan usando Flash, pronto Adobe también será dueño de internet. Apple no quiere eso
-
-— Un "pobre" resúmen de la carta de Steve Jobs
+>Flash es una tecnología *cerrada*, perteneciente a Adobe, y si las personas continúan usando Flash, pronto Adobe también será dueño de internet. Apple no quiere eso.
+- Un "pobre" resúmen de la carta de Steve Jobs
 
 
 ---
@@ -82,7 +81,9 @@ Pero nos ofrecieron una solución... ¿Cierto?
 --------------------------------------------
 
 ```
-/ In @interface
+// ~/Desktop/interface.m
+
+// In @interface
 @property (nonatomic, assign) CGFloat lastContentOffset;
 
 //Scroll view delegate methods
@@ -106,38 +107,48 @@ Pero nos ofrecieron una solución... ¿Cierto?
 
 ---
 
-## ¿Cómo llegamos hasta aquí?
-### Los navegadores se unificaron
+Nacimiento de HTML5
+-------------------
+
+![HTML5](https://cdn-images-1.medium.com/max/800/1*Lk7YWiSeDYGd-ITVUXbBbA.png "HTML5")
+
 
 ---
 
-## ¿Cómo llegamos hasta aquí?
-### Nacimiento de HTML5
+Llegó Javascript, cambió el juego
+---------------------------------
 
 ---
 
-## ¿Cómo llegamos hasta aquí?
-### Llegó Javascript, cambió el juego
+Javacript en el día de hoy
+--------------------------
+
+
 
 ---
 
-## Javacript en el día de hoy
+¿Quién utiliza Javascript?
+--------------------------
 
 ---
 
-## ¿Quién utiliza Javascript?
+Seguridad en Javascript
+-----------------------
 
 ---
 
-## Seguridad en Javascript
+Los contras de Javascript
+-------------------------
 
 ---
 
-## Los contras de Javascript
+¿Dónde aprender Javascript?
+---------------------------
 
 ---
 
-## ¿Dónde aprender Javascript?
+## Para volver a ver la presentación
+#### [Slides](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
 
 ---
 

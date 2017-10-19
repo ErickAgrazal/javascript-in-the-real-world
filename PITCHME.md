@@ -23,6 +23,11 @@
 ##### Erick Agrazal
 #### ¿A qué me dedico?
 ##### A muchas cosas...
+
+---
+
+¿A qué me dedico?
+-----------------
 ###### - All Safe Solutions (55%)
 ###### - Smart Motion (20%)
 ###### - Profesor (20%)
@@ -110,7 +115,7 @@ Pero nos ofrecieron una solución... ¿Cierto?
 Nacimiento de HTML5
 -------------------
 
-![HTML5](https://cdn-images-1.medium.com/max/800/1*Lk7YWiSeDYGd-ITVUXbBbA.png "HTML5")
+![HTML5](https://cdn-images-1.medium.com/max/800/1*Lk7YWiSeDYGd-ITVUXbBbA.png "HTML5 Logo")
 
 
 ---
@@ -123,12 +128,43 @@ Llegó Javascript, cambió el juego
 Javacript en el día de hoy
 --------------------------
 
+- Frontend
+- Backend
+- Aplicaciones Móviles
+- Apicaciones Locales
+- ¡Hasta IoT y Robótica!
 
+---
+
+Frontend
+--------
+
+- Jquery... Fue genial.
+- Angular 1.0
+- React JS
+- Vue JS
+
+---
+
+Backend
+-------
+
+Llegó Node.JS en 2009... ¡Gracias Ryan Dahl's!
+![NodeJS](assets/nodejs_logo.svg "Node JS Logo")
+
+---
+
+¡Incluso Bases de Datos!
+------------------------
+
+![Mongo DB](assets/mongodb_logo.png "Mongo logo")
 
 ---
 
 ¿Quién utiliza Javascript?
 --------------------------
+
+![Production Images](assets/production_js_logo.png "Production Images")
 
 ---
 
@@ -137,13 +173,15 @@ Seguridad en Javascript
 
 ---
 
-Los contras de Javascript
+No todo es bonito...
 -------------------------
 
 ---
 
 ¿Dónde aprender Javascript?
 ---------------------------
+
+
 
 ---
 

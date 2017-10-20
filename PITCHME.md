@@ -180,7 +180,7 @@ Aplicaciones Locales
 ¡Hasta IoT y Robótica!
 ----------------------
 
-![Jhonny Five](assets/jhonny_five_robot.png "Jhonny Five Logo")
+![Jhonny Five](assets/jhonny_five_robot_2.png "Jhonny Five Logo")
 - Jhonny Five JS
 - NodeMCU
 - Arduino
@@ -204,7 +204,7 @@ Aplicaciones Locales
 
 Seguridad en Javascript
 -----------------------
-![Mr. Robot](assets/mr_robot_logo.png "Mr. Robot Logo")
+![Mr. Robot](assets/mr_robot_logo.jpg "Mr. Robot Logo")
 - Ataques:
   - XSS <span style="color: #e49436">(Cross-Site Scripting)</span>
   - CSRF <span style="color: #e49436">(Cross-Site Request Forgery)</span>
@@ -214,10 +214,16 @@ Seguridad en Javascript
 
 Seguridad en Javascript (Express)
 -----------------------
-![Mr. Robot](assets/mr_robot_logo.png "Mr. Robot Logo")
+![Mr. Robot](assets/mr_robot_logo.jpg "Mr. Robot Logo")
 - HTTPS
 - CSURF, <span style="color: #e49436">protección contra CSRF</span>
 - XSS
+
+---
+
+Seguridad en Javascript (Express)
+-----------------------
+
 - Parametrización de consultas
 - SQLMap, <span style="color: #e49436">herramienta para detectar 
   ataques de inyección de SQL</span>
@@ -229,7 +235,7 @@ Seguridad en Javascript (Express)
 
 No todo es bonito...
 -------------------------
-![Javascript Fatigue](assets/javascript_fatigue.png "Javascript Fatigue")
+![Javascript Fatigue](assets/javascript_fatigue.jpg "Javascript Fatigue")
 - No funciona (tan) bien para cálculos complejos.
   - 2^53-1
 - La *fatiga* de JS.
@@ -245,7 +251,7 @@ No todo es bonito...
 ---
 
 ## Para volver a ver la presentación
-#### [Slides](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
+#### [https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md](https://github.com/ErickAgrazal/javascript-in-the-real-world/blob/master/PITCHME.md)
 
 ---
 

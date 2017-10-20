@@ -236,8 +236,7 @@ Seguridad en Javascript (Express)
 No todo es bonito...
 -------------------------
 ![Javascript Fatigue](assets/javascript_fatigue.png "Javascript Fatigue")
-- No funciona (tan) bien para cálculos complejos.
-  - 2^53-1
+- Problemas con cálculos complejos. (2^53-1)
 - La *fatiga* de JS.
 
 ---

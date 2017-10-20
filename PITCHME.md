@@ -132,7 +132,7 @@ Javacript en el día de hoy
 Frontend
 --------
 
-![Vue Logo](assets/vue_logo.png)
+![Vue Logo](assets/vue_js_logo.png)
 - Jquery... <span style="color: #e49436">Fue genial.</span>
 - Angular 1.0 JS
 - Angular 2.0 JS
@@ -204,7 +204,7 @@ Aplicaciones Locales
 
 Seguridad en Javascript
 -----------------------
-![Mr. Robot](assets/mr_robot_logo.jpg "Mr. Robot Logo")
+![Mr. Robot](assets/mr_robot_logo_2.jpg "Mr. Robot Logo")
 - Ataques:
   - XSS <span style="color: #e49436">(Cross-Site Scripting)</span>
   - CSRF <span style="color: #e49436">(Cross-Site Request Forgery)</span>
@@ -214,7 +214,7 @@ Seguridad en Javascript
 
 Seguridad en Javascript (Express)
 -----------------------
-![Mr. Robot](assets/mr_robot_logo.jpg "Mr. Robot Logo")
+![Mr. Robot](assets/mr_robot_logo_2.jpg "Mr. Robot Logo")
 - HTTPS
 - CSURF, <span style="color: #e49436">protección contra CSRF</span>
 - XSS
@@ -235,7 +235,7 @@ Seguridad en Javascript (Express)
 
 No todo es bonito...
 -------------------------
-![Javascript Fatigue](assets/javascript_fatigue.jpg "Javascript Fatigue")
+![Javascript Fatigue](assets/javascript_fatigue.png "Javascript Fatigue")
 - No funciona (tan) bien para cálculos complejos.
   - 2^53-1
 - La *fatiga* de JS.

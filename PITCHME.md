@@ -1,24 +1,4 @@
-# Javascript en el mundo profesional 
-- Presentación
-- Introducción
-- Vivimos en un mundo con el futuro de la web, y es hermoso.
-- ¿Cómo llegamos hasta aquí?
-  * Flash
-  * La ilusión no demoró mucho
-  * Apple nos hizo retroceder un poco
-  * Los navegadores se unificaron
-  * Nacimiento de HTML5
-  * Llegó Javascript, cambió el juego.
-- Javascript hoy en día
-- ¿Quién utiliza Javascript?
-- Seguridad en Javascript
-- Los contras de Javascript
-- ¿Dónde aprender Javascript?
-- Conclusión
-
----
-
-## Presentación
+## Javascript en el mundo <span style="color: #e49436">profesional</span>
 #### ¿Quién soy yo?
 ##### Erick Agrazal
 #### ¿A qué me dedico?
@@ -35,7 +15,10 @@
 
 ---
 
-## Introducción
+Javascript != Java
+------------------
+
+![Javascript_Hamster](assets/java_vs_javascript.png)
 
 ---
 
@@ -123,6 +106,15 @@ Nacimiento de HTML5
 Llegó Javascript, cambió el juego
 ---------------------------------
 
+![Javascript Logo](assets/javascript_log.png "Javascript Logo")
+
+---
+
+Javacript en el día de hoy
+--------------------------
+
+![You're wrong kiddo](assets/javascript_you_are_wrong.png)
+
 ---
 
 Javacript en el día de hoy
@@ -140,7 +132,8 @@ Frontend
 --------
 
 - Jquery... Fue genial.
-- Angular 1.0
+- Angular 1.0 JS
+- Angular 2.0 JS
 - React JS
 - Vue JS
 
@@ -151,6 +144,36 @@ Backend
 
 Llegó Node.JS en 2009... ¡Gracias Ryan Dahl's!
 ![NodeJS](assets/nodejs_logo.svg "Node JS Logo")
+
+---
+
+Backend
+-------
+
+- Express JS
+- Sails JS
+- Meteor JS
+
+---
+
+Aplicaciones Móviles
+--------------------
+
+- React Native
+- Titanium
+
+---
+
+Aplicaciones Locales
+--------------------
+
+- Electron JS
+
+---
+
+¡Hasta IoT y Robótica!
+----------------------
+- Jhonny Five JS
 
 ---
 
@@ -176,12 +199,16 @@ Seguridad en Javascript
 No todo es bonito...
 -------------------------
 
+- No funciona (tan) bien para alto rendimiento.
+- La *fatiga* de JS.
+
 ---
 
 ¿Dónde aprender Javascript?
 ---------------------------
 
-
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [Addy Osmany](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ---
 

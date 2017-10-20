@@ -204,7 +204,7 @@ Aplicaciones Locales
 
 Seguridad en Javascript
 -----------------------
-![Mr. Robot](assets/mr_robot_logo_2.jpg "Mr. Robot Logo")
+![Mr. Robot](assets/mr_robot_logo.png "Mr. Robot Logo")
 - Ataques:
   - XSS <span style="color: #e49436">(Cross-Site Scripting)</span>
   - CSRF <span style="color: #e49436">(Cross-Site Request Forgery)</span>
@@ -214,7 +214,7 @@ Seguridad en Javascript
 
 Seguridad en Javascript (Express)
 -----------------------
-![Mr. Robot](assets/mr_robot_logo_2.jpg "Mr. Robot Logo")
+![Mr. Robot](assets/mr_robot_logo.png "Mr. Robot Logo")
 - HTTPS
 - CSURF, <span style="color: #e49436">protección contra CSRF</span>
 - XSS

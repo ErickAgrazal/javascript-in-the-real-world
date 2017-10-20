@@ -1,17 +1,17 @@
 ## Javascript en el mundo <span style="color: #e49436">profesional</span>
-#### ¿Quién soy yo?
+#### <span style="color: #e49436">¿Quién soy yo?</span>
 ##### Erick Agrazal
-#### ¿A qué me dedico?
+#### <span style="color: #e49436">¿A qué me dedico?</span>
 ##### A muchas cosas...
 
 ---
 
 ¿A qué me dedico?
 -----------------
-###### - All Safe Solutions (55%)
-###### - Smart Motion (20%)
-###### - Profesor (20%)
-###### - Entre otras cosas (5%)
+###### - All Safe Solutions <span style="color: #e49436">(55%)</span>
+###### - Smart Motion <span style="color: #e49436">(20%)</span>
+###### - Profesor <span style="color: #e49436">(20%)</span>
+###### - Entre otras cosas <span style="color: #e49436">(5%)</span>
 
 ---
 
@@ -45,7 +45,8 @@ Flash
 - Comunicación en tiempo real
 - Animaciones aceleradas por _hardware_
 - Una sintaxis similar a **Javascript**
-- Un *framework* para crear interfaces gráficas multiplataformas (*Adobe Flex*) 
+- Un *framework* para crear interfaces 
+  gráficas multiplataformas (*Adobe Flex*) 
 
 ---
 
@@ -100,20 +101,20 @@ Nacimiento de HTML5
 
 ![HTML5](https://cdn-images-1.medium.com/max/800/1*Lk7YWiSeDYGd-ITVUXbBbA.png "HTML5 Logo")
 
-
 ---
 
 Llegó Javascript, cambió el juego
 ---------------------------------
 
-![Javascript Logo](assets/javascript_log.png "Javascript Logo")
+![Javascript Logo](assets/javascript_logo.png "Javascript Logo")
+- European Computer Manufacturers Association <span style="color: #e49436">(ECMA)</span>
 
 ---
 
 Javacript en el día de hoy
 --------------------------
 
-![You're wrong kiddo](assets/javascript_you_are_wrong.png)
+![You're wrong kiddo](assets/javascript_you_are_wrong.png "You're wrong kiddo")
 
 ---
 
@@ -131,7 +132,8 @@ Javacript en el día de hoy
 Frontend
 --------
 
-- Jquery... Fue genial.
+![Vue Logo](assets/vue_logo.png)
+- Jquery... <span style="color: #e49436">Fue genial.</span>
 - Angular 1.0 JS
 - Angular 2.0 JS
 - React JS
@@ -142,14 +144,16 @@ Frontend
 Backend
 -------
 
-Llegó Node.JS en 2009... ¡Gracias Ryan Dahl's!
-![NodeJS](assets/nodejs_logo.svg "Node JS Logo")
+Llegó Node.JS en 2009... <span style="color: #e49436">¡Gracias Ryan Dahl's!</span>
+![NodeJS](assets/nodejs_logo.png "Node JS Logo")
+![Chrome V8](assets/chrome_v8_logo.png "Chrome v8 logo")
 
 ---
 
 Backend
 -------
 
+![Express](assets/express_logo.png "Express Logo")
 - Express JS
 - Sails JS
 - Meteor JS
@@ -159,6 +163,7 @@ Backend
 Aplicaciones Móviles
 --------------------
 
+![React](assets/react_logo.png "React Logo")
 - React Native
 - Titanium
 
@@ -167,13 +172,18 @@ Aplicaciones Móviles
 Aplicaciones Locales
 --------------------
 
+![Electron](assets/electron_logo.png "Electron logo")
 - Electron JS
 
 ---
 
 ¡Hasta IoT y Robótica!
 ----------------------
+
+![Jhonny Five](assets/jhonny_five_robot.png "Jhonny Five Logo")
 - Jhonny Five JS
+- NodeMCU
+- Arduino
 
 ---
 
@@ -181,6 +191,7 @@ Aplicaciones Locales
 ------------------------
 
 ![Mongo DB](assets/mongodb_logo.png "Mongo logo")
+- Mongo DB <span style="color: #e49436">(Para las consultas)</span>
 
 ---
 
@@ -193,13 +204,34 @@ Aplicaciones Locales
 
 Seguridad en Javascript
 -----------------------
+![Mr. Robot](assets/mr_robot_logo.png "Mr. Robot Logo")
+- Ataques:
+  - XSS <span style="color: #e49436">(Cross-Site Scripting)</span>
+  - CSRF <span style="color: #e49436">(Cross-Site Request Forgery)</span>
+  - *Básicamente los mismos que los demás lenguajes (Backend)*
+
+---
+
+Seguridad en Javascript (Express)
+-----------------------
+![Mr. Robot](assets/mr_robot_logo.png "Mr. Robot Logo")
+- HTTPS
+- CSURF, <span style="color: #e49436">protección contra CSRF</span>
+- XSS
+- Parametrización de consultas
+- SQLMap, <span style="color: #e49436">herramienta para detectar 
+  ataques de inyección de SQL</span>
+- NMAP y SSLYZE, <span style="color: #e49436">probar
+  configuraciones</span> de SSL, métodos de cifrado, llaves
+  además de la revisión de la validez de los certificados digitales.
 
 ---
 
 No todo es bonito...
 -------------------------
-
-- No funciona (tan) bien para alto rendimiento.
+![Javascript Fatigue](assets/javascript_fatigue.png "Javascript Fatigue")
+- No funciona (tan) bien para cálculos complejos.
+  - 2^53-1
 - La *fatiga* de JS.
 
 ---
